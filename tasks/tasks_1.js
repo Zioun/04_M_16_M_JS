@@ -10,6 +10,6 @@ var buy = orange+apple;
 console.log('Buy'+' '+buy);
 
 var returnTaka = amount-buy;
-console.log('Return'+' '+returnTaka);
+console.log('Return'+' '+parseInt(returnTaka));
 
 
