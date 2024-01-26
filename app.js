@@ -1,1 +1,1 @@
-var hello = "hello Bangladesh";
+console.log("hello")
